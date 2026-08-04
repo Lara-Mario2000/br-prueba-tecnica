@@ -1,0 +1,47 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Sales,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating,Label
+276-54-0879,Cairo,Mandalay,Normal,Male,Sports and travel,97.74,4,19.548,410.508,3/12/2019,7:53:00 PM,Ewallet,390.96,4.761904762,19.548,6.4,Malo
+257-60-7754,Alex,Yangon,Normal,Female,Electronic accessories,50.23,4,10.046,210.966,1/8/2019,5:12:00 PM,Cash,200.92,4.761904762,10.046,9,Malo
+189-52-0236,Alex,Yangon,Normal,Male,Electronic accessories,99.55,7,34.8425,731.6925,3/14/2019,12:07:00 PM,Cash,696.85,4.761904762,34.8425,7.6,Malo
+756-01-7507,Giza,Naypyitaw,Member,Female,Health and beauty,20.38,5,5.095,106.995,1/22/2019,6:56:00 PM,Cash,101.9,4.761904762,5.095,6,Malo
+493-65-6248,Giza,Naypyitaw,Member,Female,Sports and travel,36.98,10,18.49,388.29,1/1/2019,7:48:00 PM,Credit card,369.8,4.761904762,18.49,7,Malo
+477-59-2456,Giza,Naypyitaw,Normal,Female,Fashion accessories,45.44,7,15.904,333.984,1/23/2019,11:15:00 AM,Cash,318.08,4.761904762,15.904,9.2,Malo
+636-48-8204,Alex,Yangon,Member,Female,Electronic accessories,34.56,5,8.64,181.44,2/17/2019,11:15:00 AM,Ewallet,172.8,4.761904762,8.64,9.9,Malo
+531-80-1784,Alex,Yangon,Normal,Male,Electronic accessories,26.02,7,9.107,191.247,3/28/2019,5:38:00 PM,Cash,182.14,4.761904762,9.107,5.1,Malo
+263-12-5321,Alex,Yangon,Member,Male,Electronic accessories,92.6,7,32.41,680.61,2/27/2019,12:52:00 PM,Credit card,648.2,4.761904762,32.41,9.3,Malo
+745-74-0715,Alex,Yangon,Normal,Male,Electronic accessories,58.03,2,5.803,121.863,3/10/2019,8:46:00 PM,Ewallet,116.06,4.761904762,5.803,8.8,Malo
+448-61-3783,Alex,Yangon,Normal,Female,Electronic accessories,90.02,8,36.008,756.168,3/21/2019,4:08:00 PM,Credit card,720.16,4.761904762,36.008,4.5,Malo
+254-31-0042,Alex,Yangon,Member,Male,Electronic accessories,21.5,9,9.675,203.175,3/6/2019,12:46:00 PM,Credit card,193.5,4.761904762,9.675,7.8,Malo
+416-17-9926,Alex,Yangon,Member,Female,Electronic accessories,74.22,10,37.11,779.31,1/1/2019,2:42:00 PM,Credit card,742.2,4.761904762,37.11,4.3,Malo
+380-60-5336,Alex,Yangon,Normal,Female,Electronic accessories,40.26,10,20.13,422.73,2/24/2019,6:06:00 PM,Credit card,402.6,4.761904762,20.13,5,Malo
+355-53-5943,Alex,Yangon,Member,Female,Electronic accessories,68.84,6,20.652,433.692,2/25/2019,2:36:00 PM,Ewallet,413.04,4.761904762,20.652,5.8,Malo
+834-61-8124,Alex,Yangon,Normal,Male,Electronic accessories,51.69,7,18.0915,379.9215,1/26/2019,6:22:00 PM,Cash,361.83,4.761904762,18.0915,5.5,Malo
+173-57-2300,Giza,Naypyitaw,Member,Male,Sports and travel,72.88,2,7.288,153.048,3/13/2019,12:51:00 PM,Cash,145.76,4.761904762,7.288,6.1,Malo
+811-03-8790,Alex,Yangon,Normal,Female,Electronic accessories,45.48,10,22.74,477.54,3/1/2019,10:22:00 AM,Credit card,454.8,4.761904762,22.74,4.8,Malo
+884-80-6021,Alex,Yangon,Member,Female,Electronic accessories,73.47,10,36.735,771.435,3/23/2019,1:14:00 PM,Ewallet,734.7,4.761904762,36.735,9.5,Malo
+151-16-1484,Alex,Yangon,Member,Male,Electronic accessories,32.25,4,6.45,135.45,2/13/2019,12:38:00 PM,Ewallet,129,4.761904762,6.45,6.5,Malo
+797-88-0493,Alex,Yangon,Normal,Female,Health and beauty,64.27,4,12.854,269.934,3/26/2019,1:54:00 PM,Cash,257.08,4.761904762,12.854,7.7,Malo
+799-71-1548,Alex,Yangon,Member,Male,Electronic accessories,77.72,4,15.544,326.424,1/7/2019,4:11:00 PM,Credit card,310.88,4.761904762,15.544,8.8,Malo
+404-91-5964,Alex,Yangon,Normal,Male,Electronic accessories,74.58,7,26.103,548.163,2/4/2019,4:09:00 PM,Credit card,522.06,4.761904762,26.103,9,Malo
+459-50-7686,Alex,Yangon,Normal,Female,Electronic accessories,23.46,6,7.038,147.798,1/13/2019,7:14:00 PM,Ewallet,140.76,4.761904762,7.038,6.4,Malo
+134-75-2619,Alex,Yangon,Member,Male,Electronic accessories,19.32,7,6.762,142.002,3/25/2019,6:51:00 PM,Cash,135.24,4.761904762,6.762,6.9,Malo
+638-60-7125,Alex,Yangon,Member,Female,Electronic accessories,99.56,8,39.824,836.304,2/14/2019,5:03:00 PM,Credit card,796.48,4.761904762,39.824,5.2,Malo
+700-81-1757,Alex,Yangon,Normal,Female,Electronic accessories,26.31,5,6.5775,138.1275,1/18/2019,8:59:00 PM,Credit card,131.55,4.761904762,6.5775,8.8,Malo
+124-31-1458,Alex,Yangon,Member,Female,Electronic accessories,79.59,3,11.9385,250.7085,1/8/2019,2:30:00 PM,Cash,238.77,4.761904762,11.9385,6.6,Malo
+807-14-7833,Alex,Yangon,Member,Female,Electronic accessories,17.42,10,8.71,182.91,2/22/2019,12:30:00 PM,Ewallet,174.2,4.761904762,8.71,7,Malo
+888-02-0338,Alex,Yangon,Normal,Male,Electronic accessories,26.23,9,11.8035,247.8735,1/25/2019,8:24:00 PM,Ewallet,236.07,4.761904762,11.8035,5.9,Malo
+200-40-6154,Cairo,Mandalay,Member,Male,Home and lifestyle,65.91,6,19.773,415.233,2/9/2019,11:45:00 AM,Cash,395.46,4.761904762,19.773,5.7,Malo
+726-29-6793,Alex,Yangon,Member,Male,Electronic accessories,24.18,8,9.672,203.112,1/28/2019,8:54:00 PM,Ewallet,193.44,4.761904762,9.672,9.8,Malo
+655-07-2265,Alex,Yangon,Normal,Male,Electronic accessories,78.31,3,11.7465,246.6765,3/5/2019,4:38:00 PM,Ewallet,234.93,4.761904762,11.7465,5.4,Malo
+883-17-4236,Giza,Naypyitaw,Normal,Female,Sports and travel,14.39,2,1.439,30.219,3/2/2019,7:44:00 PM,Credit card,28.78,4.761904762,1.439,7.2,Malo
+704-48-3927,Alex,Yangon,Member,Female,Electronic accessories,88.67,10,44.335,931.035,1/12/2019,2:50:00 PM,Ewallet,886.7,4.761904762,44.335,7.3,Malo
+101-81-4070,Giza,Naypyitaw,Member,Female,Health and beauty,62.82,2,6.282,131.922,1/17/2019,12:36:00 PM,Ewallet,125.64,4.761904762,6.282,4.9,Malo
+850-41-9669,Alex,Yangon,Normal,Female,Electronic accessories,75.06,9,33.777,709.317,3/19/2019,1:25:00 PM,Ewallet,675.54,4.761904762,33.777,6.2,Malo
+365-64-0515,Alex,Yangon,Member,Female,Electronic accessories,46.95,5,11.7375,246.4875,2/12/2019,10:25:00 AM,Ewallet,234.75,4.761904762,11.7375,7.1,Malo
+868-06-0466,Alex,Yangon,Member,Male,Electronic accessories,69.58,9,31.311,657.531,2/19/2019,7:38:00 PM,Credit card,626.22,4.761904762,31.311,7.8,Malo
+138-17-5109,Alex,Yangon,Member,Female,Home and lifestyle,89.21,9,40.1445,843.0345,1/15/2019,3:42:00 PM,Credit card,802.89,4.761904762,40.1445,6.5,Malo
+340-66-0321,Alex,Yangon,Member,Male,Electronic accessories,36.36,4,7.272,152.712,3/25/2019,1:07:00 PM,Cash,145.44,4.761904762,7.272,7.6,Malo
+411-77-0180,Alex,Yangon,Member,Male,Electronic accessories,72.2,7,25.27,530.67,3/26/2019,8:14:00 PM,Ewallet,505.4,4.761904762,25.27,4.3,Malo
+225-32-0908,Giza,Naypyitaw,Member,Female,Sports and travel,44.86,10,22.43,471.03,1/26/2019,7:54:00 PM,Ewallet,448.6,4.761904762,22.43,8.2,Malo
+213-32-1216,Alex,Yangon,Normal,Female,Electronic accessories,66.06,6,19.818,416.178,1/23/2019,10:28:00 AM,Cash,396.36,4.761904762,19.818,7.3,Malo
+745-71-3520,Alex,Yangon,Member,Female,Electronic accessories,25.22,7,8.827,185.367,2/4/2019,10:23:00 AM,Cash,176.54,4.761904762,8.827,8.2,Malo
+841-35-6630,Giza,Naypyitaw,Member,Female,Electronic accessories,75.91,6,22.773,478.233,3/9/2019,6:21:00 PM,Cash,455.46,4.761904762,22.773,8.7,Malo
