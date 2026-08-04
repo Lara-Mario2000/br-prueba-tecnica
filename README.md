@@ -41,10 +41,10 @@ Un documento que resuma los resultados de tu estrategia, el cual debe contener e
 | **Casos totales** | Volumen total evaluado por la regla. |
 | **Casos malos** | Transacciones de fraude correctamente detenidas (Verdaderos Positivos). |
 | **Casos buenos** | Transacciones legítimas afectadas por error (Falsos Positivos). |
-| **Exactitud** | *Accuracy* |
-| **Precisión** | *Precision* |
-| **Sensibilidad** | *Recall* |
-| **Especificidad** | *Specificity* |
+| **Exactitud** | $\text{Exactitud} = \frac{TP + TN}{TP + TN + FP + FN}$ |
+| **Precisión** | $\text{Precisión} = \frac{TP}{TP + FP}$ |
+| **Sensibilidad** | $\text{Sensibilidad} = \frac{TP}{TP + FN}$ |
+| **Especificidad** | $\text{Especificidad} = \frac{TN}{TN + FP}$ |
 
 ---
 
